@@ -1,1 +1,1 @@
-Welcome! Here examples used in lecturs of software design 2022. Each lecture is in separate branch
+Welcome! Here examples used in lectures of software design 2022. Each lecture is in separate branch
