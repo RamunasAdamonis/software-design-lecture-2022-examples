@@ -1,5 +1,4 @@
 using Microsoft.AspNetCore.Mvc;
-using Microsoft.EntityFrameworkCore;
 using Software.Design.Services;
 
 namespace Software.Design.Models.Controllers;
