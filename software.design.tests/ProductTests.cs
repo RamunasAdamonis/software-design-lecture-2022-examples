@@ -4,7 +4,7 @@ using Xunit;
 
 namespace software.design.tests;
 
-public class UnitTest1
+public class ProductTests
 {
     [Fact]
     public void Product_WithInvalidInput_ThrowsAnException()
